@@ -1,0 +1,51 @@
+body {background-image: url(../images/bg4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	
+}
+
+
+h1 {color: black;
+	font-size: 70px;
+	font-weight: 700;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+h2 {color: black;
+	font-size: 35px;
+	margin-top: 0;
+
+}
+
+.bio {
+	color: black;
+	font-size: 25px;
+	font-family: 'Yellowtail', cursive;
+	background-origin: content-box;
+
+}
+
+.me {
+	height: 150px;
+	width: 150px;
+	border-radius: 200%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 20px;
+}
+
+.about {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
